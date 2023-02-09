@@ -1,0 +1,22 @@
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background:#0090ff88;
+}
+
+body{
+  overflow: hidden;
+}
+
+.statLabel{
+  position: absolute;
+  padding-top: 3px;
+  margin-left: 2px;
+}
