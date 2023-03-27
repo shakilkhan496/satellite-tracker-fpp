@@ -559,7 +559,7 @@ const Main = props => {
             <a href='https://www.linkedin.com/in/shakilkhan496/'>LinkedIn</a><span> </span><span> </span>
           </Typography>
           <center>
-            <img width='50%' alt='Shakil khan' style={{ borderRadius: '100%' }} src={'https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/327994992_438743141725517_1657008068654249042_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFOaHQ1mYniIzpo8x19eM4MsRtldH-lORmxG2V0f6U5GTD-_3hwJY2fnt9aZT7FjGcVCOqJk-0Ot01VnGEwBCZa&_nc_ohc=qkR7-gsQXPAAX90_ZvV&_nc_ht=scontent.fjsr11-1.fna&oh=00_AfD0qDs25pMrxeQW1cZGbP0L72GY1ttlpyy8N4bnV0nTbQ&oe=63EA769A'} />
+            <img width='50%' alt='Shakil khan' style={{ borderRadius: '100%' }} src={'https://i.ibb.co/CJQ8R8g/332693522-589266906439788-5184711486460526906-n.jpg'} />
           </center>
           <Typography variant="body">
             Welcome to the Satellite Tracker App! With this app, you can easily track any satellite in the sky. With a simple user interface, you can search for a satellite by name and view its location in real time. You can also see the satellite's trajectory and learn more about its purpose and use. Enjoy your journey into space!
